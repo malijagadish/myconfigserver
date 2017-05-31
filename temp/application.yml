@@ -1,0 +1,6 @@
+server:
+  port: 8081
+app:
+  artifactId: emp_details_v
+      
+      
